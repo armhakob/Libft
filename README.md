@@ -11,7 +11,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
 
 ## About the Project
 
